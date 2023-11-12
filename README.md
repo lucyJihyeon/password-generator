@@ -59,3 +59,16 @@ SO THAT the password generator can generate a password with desired charaters
 6. Click OK to confirm including special character, or cancel.
 7. The generated password will be displayed in the input box.
 
+## Preview 
+This is the preview of the webpage
+![alt Password Generator; prompted to enter a length](./Assets/screenshot.a.png)
+![alt Password Generator; generated password](./Assets/Screen%20Shot%202023-11-11%20at%2011.17.33%20PM.png)
+
+## Link 
+View the Webpage.
+
+[Password Generator](https://lucyjihyeon.github.io/password-generator/)
+
+## Credit 
+
+The starter code is provided by UC Berkeley Extenstion Full-stack Bootcamp.
